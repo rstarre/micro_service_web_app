@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # services/users/manage.py
 
 from flask.cli import FlaskGroup
