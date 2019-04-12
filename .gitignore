@@ -1,3 +1,6 @@
 .idea/
 venv/
 testdriven-app/services/users/project/__pycache__/
+testdriven-app/services/users/project/api/__pycache__/__init__.cpython-37.pyc
+testdriven-app/services/users/project/api/__pycache__/
+testdriven-app/services/users/project/tests/__pycache__/
